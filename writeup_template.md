@@ -10,9 +10,9 @@ The goals / steps of this project are the following:
 
 ### Reflection
 
-###1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
+###1. My pipeline consisted of 7 steps.
 
-My pipeline consisted of 7 steps. 
+ 
 
 1. First step is to convert image to grayscale
 2. Blur image using GaussainBlur
