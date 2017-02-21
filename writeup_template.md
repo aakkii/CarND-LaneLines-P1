@@ -5,7 +5,6 @@ This is my first project on self driving car. It was a good experince, though I 
 
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
 
 ---
 
