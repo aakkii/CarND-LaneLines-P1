@@ -20,8 +20,8 @@ The goals / steps of this project are the following:
 4. Limiting the area to two lanes
 5. Using Hough for getting line coordinates
 6. Using draw_lines to connect the lines. Most of the work is done in this section.
-   This fucntion calcuates the slope first to determine right and left lane. It also further divides the image vertically to reduce noise. After that function calculates average slope seperate for right and left lane. This slope is further used to derive intercept and then finally to derive corresponding x cordinates for given y cordinates. Finally, it draws line between the derived coordinates.
-7. Using weighted_imag to draw line on original image
+   This fucntion calcuates the slope first to determine right and left lane. It also further divides the image vertically to reduce noise. After that function calculates average slope seperately for right and left lane. This slope is further used to derive intercept and then finally to derive corresponding x cordinates for given y cordinates. Finally, it draws line between the derived coordinates.
+7. Using weighted_img to draw line on original image
 
 
 
